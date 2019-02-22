@@ -1,2 +1,4 @@
 test git here
-edited file
+
+edited file.
+Add new line
