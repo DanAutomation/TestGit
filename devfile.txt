@@ -1,2 +1,6 @@
 devfile inner text
+<<<<<<< HEAD
 changed from dev branch
+=======
+edited from master branch
+>>>>>>> changed devfile from master branch
